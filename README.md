@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Danilo Lima</h1>
-<h3 align="center">Desenvolvedor Full Stack em formação</h3>
+<h3 align="center">Desenvolvedor Full Stack</h3>
 
 ---
 
