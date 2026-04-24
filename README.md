@@ -4,15 +4,18 @@
 
 <h2 align="center">👋 Danilo Lima</h2>
 <p align="center">
-  <strong>Desenvolvedor Full Stack | Engenharia de Software | UI/UX</strong><br>
-  <em>Transformando lógica complexa em experiências digitais de alta performance.</em>
+  <strong>Desenvolvedor Full Stack | Engenharia de Software | Especialista em Dados</strong><br>
+  <em>Transformando lógica complexa em experiências digitais de alta performance e sistemas resilientes.</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danilo-lima-cruz-828244234/">
+  <a href="https://www.linkedin.com/in/danilo-lima-cruz-828244234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:danilolimacruz@gmail.com">
+  <a href="https://wa.me/5511934259549" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:danilolima7456@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -33,9 +36,11 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
@@ -45,7 +50,7 @@
 
 #### 🛡️ Sistema VIP Náutica (Enterprise / Privado)
 > Solução robusta para gestão de embarcações, com arquitetura focada em segurança e filtros dinâmicos de alta precisão.
-- **Destaque:** Implementação de controle de permissões e dashboards operacionais.
+- **Destaque:** Implementação de controle de permissões e dashboards operacionais utilizando consultas complexas em banco de dados.
 
 #### 📊 FinFlow (SaaS em Desenvolvimento)
 > Plataforma de gestão financeira inteligente. Utiliza IA para predição de fluxo de caixa e automação de insights para autônomos.
@@ -74,15 +79,19 @@
 
 ---
 
-### 📚 Especialização Atual
-- **Arquitetura de Software:** APIs RESTful e integração de sistemas.
-- **Mobile & Backend:** Explorando a versatilidade de **Kotlin** e a robustez do **Java**.
-- **Qualidade:** Foco em testes automatizados e Clean Code.
-- **Cloud:** Estudos iniciais em deploy contínuo (CI/CD) e infraestrutura ágil.
+### 📚 Especialização & Foco Técnico
+- **Database Engineering:** Domínio de **SQL** e **PL/SQL**, com foco em procedures, triggers e otimização de queries.
+- **Backend Ecosystem:** Desenvolvimento de APIs robustas com **Node.js**, **Java** e **Kotlin**.
+- **Modern Frontend:** Interfaces reativas com **React** e **TypeScript**.
+- **Quality Assurance:** Foco em Clean Code e arquitetura escalável.
 
 ---
 
 <p align="center">
-  <em>"A excelência não é um ato, mas um hábito."</em><br>
+  <em>“Ser-me-á mais fácil morrer do que assinar uma parte dando ao meu governo a notícia de uma derrota”</em><br>
+  <strong>— General Osório</strong>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dlima15&label=Profile%20views&color=10B981&style=for-the-badge" />
 </p>
