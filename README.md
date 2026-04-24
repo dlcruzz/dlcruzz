@@ -88,10 +88,5 @@
 ---
 
 <p align="center">
-  <em>“Ser-me-á mais fácil morrer do que assinar uma parte dando ao meu governo a notícia de uma derrota”</em><br>
-  <strong>— General Osório</strong>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dlima15&label=Profile%20views&color=10B981&style=for-the-badge" />
 </p>
