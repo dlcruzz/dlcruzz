@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=Dlima15&label=Profile+Views&color=7C6AF7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=dlcruzz&label=Profile+Views&color=7C6AF7&style=for-the-badge" />
 
 </div>
 
@@ -94,17 +94,17 @@ const danilo: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dlima15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&icon_color=7C6AF7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dlima15&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AF7&fire=FF6B35&currStreakLabel=7C6AF7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dlcruzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&icon_color=7C6AF7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlcruzz&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AF7&fire=FF6B35&currStreakLabel=7C6AF7" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlima15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dlima15&theme=tokyonight&utcOffset=-3" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcruzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dlcruzz&theme=tokyonight&utcOffset=-3" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dlima15&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C6AF7&line=7C6AF7&point=FF6B35&area=true&area_color=7C6AF7" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dlcruzz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C6AF7&line=7C6AF7&point=FF6B35&area=true&area_color=7C6AF7" />
 
 </div>
 
@@ -216,9 +216,9 @@ const danilo: Developer = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dlima15/Dlima15/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dlima15/Dlima15/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Dlima15/Dlima15/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dlcruzz/dlcruzz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dlcruzz/dlcruzz/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dlcruzz/dlcruzz/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -230,7 +230,7 @@ const danilo: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dlima15&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=dlcruzz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 
 </div>
 
