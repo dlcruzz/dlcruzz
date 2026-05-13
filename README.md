@@ -97,7 +97,7 @@ const danilo: Desenvolvedor = {
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcruzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&langs_count=8&locale=pt-br" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dlcruzz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&layout=compact" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcruzz&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&langs_count=6&locale=pt-br" />
 
 <br/>
 
