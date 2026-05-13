@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C6AF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Transformando+l%C3%B3gica+complexa+em+c%C3%B3digo+elegante;Construindo+sistemas+resilientes+e+escal%C3%A1veis;Criando+experi%C3%AAncias+digitais+de+alta+performance;Engenharia+de+Banco+de+Dados+%7C+Arquitetura+de+API;TypeScript+%7C+Java+%7C+Kotlin+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=7C6AF7&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=50&lines=Transformando+l%C3%B3gica+complexa+em+c%C3%B3digo+elegante;Construindo+sistemas+resilientes+e+escal%C3%A1veis;Criando+experi%C3%AAncias+digitais+de+alta+performance;Engenharia+de+Banco+de+Dados+%7C+Arquitetura+de+API;TypeScript+%7C+Java+%7C+Kotlin+%7C+Python" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -118,19 +118,20 @@ const danilo: Desenvolvedor = {
 ### 🛥️ VIP Náutica
 **Produção | [vipnautica.com.br](https://vipnautica.com.br)**
 
-> Plataforma completa de anúncios náuticos desenvolvida do zero — front-end, back-end e banco de dados SQL. Conta com painel administrativo completo para gestão e edição de anúncios.
+> Plataforma completa de anúncios náuticos desenvolvida do zero — front-end, back-end e banco de dados. Conta com painel administrativo completo para gestão e edição de anúncios.
 
 **Destaques:**
-- 🎨 Front-end responsivo e moderno com React
-- ⚙️ API REST robusta em Node.js + TypeScript
-- 🗄️ Banco de dados SQL com modelagem própria
+- 🎨 Front-end responsivo com HTML, CSS e JavaScript
+- ⚙️ Back-end robusto em PHP
+- 🗄️ Banco de dados MySQL com modelagem própria
 - 🔐 Painel admin com controle total de anúncios
 - 📱 Experiência otimizada para mobile e desktop
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 [![Ver Site](https://img.shields.io/badge/Ver%20Site-%F0%9F%8C%8A-0A66C2?style=for-the-badge)](https://vipnautica.com.br)
 
@@ -140,16 +141,18 @@ const danilo: Desenvolvedor = {
 ### ⚽ FutDraft
 **App | Gestão de Futebol**
 
-> Aplicativo de gestão de futebol com funcionalidades para montagem de times, escalações, controle de jogadores e acompanhamento de partidas.
+> Aplicação web mobile-first para gerenciar o rachão completo: sorteio balanceado de times por nível, cronômetro ao vivo, registro de gols, ranking e artilheiro — tudo sem frameworks ou bibliotecas externas.
 
 **Destaques:**
-- 🏟️ Montagem e gestão de escalações
-- 📋 Controle completo de elenco
-- 📊 Estatísticas de jogadores e partidas
-- 🔄 Interface intuitiva e fluída
+- ⚖️ Sorteio balanceado por nível (A, B e C) ou aleatório
+- ⏱️ Cronômetro regressivo com pausa e reset
+- ⚽ Registro de gol por jogador em tempo real
+- 🏆 Ranking final e artilheiro do torneio
+- 📱 Mobile-first, sem instalação, abre direto no navegador
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
