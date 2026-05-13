@@ -1,60 +1,58 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Danilo%20Lima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Engineer%20%7C%20Software%20Architect&descAlignY=60&descSize=18&descColor=a0a0c0" />
+<!-- Cabeçalho Animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Danilo%20Lima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Engenheiro%20de%20Dados%20%7C%20Arquiteto%20de%20Software&descAlignY=60&descSize=18&descColor=a0a0c0" />
 
-<!-- Animated Typing SVG -->
+<!-- Typing SVG Animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C6AF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Transforming+complex+logic+into+elegant+code;Building+resilient+%26+scalable+systems;Crafting+high-performance+digital+experiences;Database+Engineering+%7C+API+Architecture;TypeScript+%7C+Java+%7C+Kotlin+%7C+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=7C6AF7&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Transformando+l%C3%B3gica+complexa+em+c%C3%B3digo+elegante;Construindo+sistemas+resilientes+e+escal%C3%A1veis;Criando+experi%C3%AAncias+digitais+de+alta+performance;Engenharia+de+Banco+de+Dados+%7C+Arquitetura+de+API;TypeScript+%7C+Java+%7C+Kotlin+%7C+Python" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Social Badges -->
+<!-- Badges Sociais -->
 <a href="https://www.linkedin.com/in/danilo-lima-cruz-828244234/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://wa.me/5511934259549" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:danilolima7456@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=dlcruzz&label=Profile+Views&color=7C6AF7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=dlcruzz&label=Visualizações+do+Perfil&color=7C6AF7&style=for-the-badge" />
 
 </div>
 
 ---
 
-<!-- About Me Section -->
-## 🧠 About Me
+## 🧠 Sobre Mim
 
 ```typescript
-const danilo: Developer = {
-  name:       "Danilo Lima Cruz",
-  role:       "Full Stack Developer & Data Engineer",
-  location:   "São Paulo, Brazil 🇧🇷",
-  languages:  ["TypeScript", "JavaScript", "Java", "Kotlin", "Python"],
-  databases:  ["Oracle PL/SQL", "PostgreSQL", "MySQL"],
+const danilo: Desenvolvedor = {
+  nome:       "Danilo Lima Cruz",
+  cargo:      "Desenvolvedor Full Stack & Engenheiro de Dados",
+  localidade: "São Paulo, Brasil 🇧🇷",
+  linguagens: ["TypeScript", "JavaScript", "Java", "Kotlin", "Python"],
+  bancos:     ["Oracle PL/SQL", "PostgreSQL", "MySQL"],
   frontend:   ["React", "HTML5", "CSS3"],
-  backend:    ["Node.js", "REST APIs", "Microservices"],
-  focus:      ["Database Engineering", "API Architecture", "Clean Code"],
-  currently:  "Building FinFlow — AI-powered financial SaaS platform",
-  philosophy: "Write code that speaks for itself.",
+  backend:    ["Node.js", "REST APIs", "Microsserviços"],
+  foco:       ["Engenharia de BD", "Arquitetura de API", "Código Limpo"],
+  atualmente: "Construindo o FinFlow — plataforma SaaS financeira com IA",
+  filosofia:  "Escreva código que fale por si mesmo.",
 };
 ```
 
 ---
 
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ Stack Tecnológica
 
 <div align="center">
 
-**Languages**
+**Linguagens**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -73,45 +71,43 @@ const danilo: Developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Databases**
+**Banco de Dados**
 
 ![Oracle](https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Practices**
+**Ferramentas & Práticas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Clean Code](https://img.shields.io/badge/C%C3%B3digo%20Limpo-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dlcruzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&icon_color=7C6AF7&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlcruzz&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AF7&fire=FF6B35&currStreakLabel=7C6AF7" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dlcruzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&icon_color=7C6AF7&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlcruzz&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AF7&fire=FF6B35&currStreakLabel=7C6AF7&locale=pt_BR" />
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcruzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dlcruzz&theme=tokyonight&utcOffset=-3" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcruzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&langs_count=8&locale=pt-br" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=dlcruzz&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&layout=compact" />
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dlcruzz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C6AF7&line=7C6AF7&point=FF6B35&area=true&area_color=7C6AF7" />
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=dlcruzz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C6AF7&line=7C6AF7&point=FF6B35&area=true&area_color=7C6AF7)
 
 </div>
 
 ---
 
-<!-- Featured Projects Section -->
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
 <div align="center">
 
@@ -119,70 +115,98 @@ const danilo: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Sistema VIP Náutica
-**Enterprise | Private**
+### 🛥️ VIP Náutica
+**Produção | [vipnautica.com.br](https://vipnautica.com.br)**
 
-> Robust vessel management solution with security-focused architecture and high-precision dynamic filters.
+> Plataforma completa de anúncios náuticos desenvolvida do zero — front-end, back-end e banco de dados SQL. Conta com painel administrativo completo para gestão e edição de anúncios.
 
-**Highlights:**
-- 🔐 Advanced permission control system
-- 📊 Operational dashboards with complex DB queries
-- ⚡ Scalable architecture for real-time data
+**Destaques:**
+- 🎨 Front-end responsivo e moderno com React
+- ⚙️ API REST robusta em Node.js + TypeScript
+- 🗄️ Banco de dados SQL com modelagem própria
+- 🔐 Painel admin com controle total de anúncios
+- 📱 Experiência otimizada para mobile e desktop
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Oracle](https://img.shields.io/badge/-PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+[![Ver Site](https://img.shields.io/badge/Ver%20Site-%F0%9F%8C%8A-0A66C2?style=for-the-badge)](https://vipnautica.com.br)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 FinFlow
-**SaaS | In Development**
+### ⚽ FutDraft
+**App | Gestão de Futebol**
 
-> Intelligent financial management platform using AI for cash flow prediction and automated insights for freelancers.
+> Aplicativo de gestão de futebol com funcionalidades para montagem de times, escalações, controle de jogadores e acompanhamento de partidas.
 
-**Highlights:**
-- 🤖 AI-powered cash flow prediction
-- 📈 Automated business insights
-- 🎯 UX focused on fast decision-making
+**Destaques:**
+- 🏟️ Montagem e gestão de escalações
+- 📋 Controle completo de elenco
+- 📊 Estatísticas de jogadores e partidas
+- 🔄 Interface intuitiva e fluída
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Swift+ (JBS Challenge)
-**FIAP | Corporate Challenge**
+### 📊 FinFlow
+**SaaS | Em Desenvolvimento**
 
-> Gamified productivity ecosystem developed for JBS/Swift, featuring real-time leaderboards and integrated corporate goals.
+> Plataforma inteligente de gestão financeira com IA para previsão de fluxo de caixa e insights automatizados para freelancers.
 
-**Highlights:**
-- 🏆 Real-time ranking system
-- 🔗 Corporate goals integration
-- 📱 Cross-platform experience
+**Destaques:**
+- 🤖 Previsão de fluxo de caixa com IA
+- 📈 Insights de negócio automatizados
+- 🎯 UX focada em decisões rápidas
 
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 Open for Collaboration
-**New Projects**
+### 🔜 Em Breve
+**Novo Projeto**
 
-> Always looking for interesting open-source projects and technical challenges. If you have an idea, let's talk!
+> Espaço reservado para o próximo projeto. Fique de olho!
 
-**Interests:**
-- 🗄️ Database Engineering
-- 🏗️ API Architecture
-- 📦 Developer Tooling
-- 🔬 AI/ML Integration
+<br/><br/><br/>
 
-[![Reach Out](https://img.shields.io/badge/Let's%20Connect-7C6AF7?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/danilo-lima-cruz-828244234/)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔜 Em Breve
+**Novo Projeto**
+
+> Espaço reservado para o próximo projeto. Fique de olho!
+
+<br/><br/><br/>
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 Aberto a Colaborações
+**Projetos Novos**
+
+> Sempre em busca de projetos open-source interessantes e desafios técnicos. Se tiver uma ideia, vamos conversar!
+
+**Interesses:**
+- 🗄️ Engenharia de Banco de Dados
+- 🏗️ Arquitetura de APIs
+- 📦 Ferramentas para Devs
+- 🔬 Integração IA/ML
+
+[![Vamos Conversar](https://img.shields.io/badge/Vamos%20Conversar-7C6AF7?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/danilo-lima-cruz-828244234/)
 
 </td>
 </tr>
@@ -192,57 +216,53 @@ const danilo: Developer = {
 
 ---
 
-<!-- Expertise Section -->
-## 🎯 Areas of Expertise
+## 🎯 Áreas de Especialização
 
 <div align="center">
 
-| Domain | Skills |
-|--------|--------|
-| 🗄️ **Database Engineering** | Oracle PL/SQL · Procedures · Triggers · Query Optimization · Indexing |
-| ⚙️ **Backend Development** | Node.js · Java · Kotlin · REST APIs · Microservices |
-| 🎨 **Frontend Engineering** | React · TypeScript · HTML5 · CSS3 · Responsive Design |
-| 🏗️ **Architecture** | Clean Code · SOLID · Scalable Systems · Design Patterns |
-| 📊 **Data & Analytics** | Complex Queries · BI Dashboards · Data Pipelines |
-| 🔄 **Methodologies** | Agile · Scrum · Git Flow · Code Review |
+| Domínio | Habilidades |
+|---------|-------------|
+| 🗄️ **Engenharia de Banco de Dados** | Oracle PL/SQL · Procedures · Triggers · Otimização de Queries · Indexação |
+| ⚙️ **Desenvolvimento Backend** | Node.js · Java · Kotlin · REST APIs · Microsserviços |
+| 🎨 **Engenharia Frontend** | React · TypeScript · HTML5 · CSS3 · Design Responsivo |
+| 🏗️ **Arquitetura** | Código Limpo · SOLID · Sistemas Escaláveis · Design Patterns |
+| 📊 **Dados & Analytics** | Queries Complexas · Dashboards BI · Pipelines de Dados |
+| 🔄 **Metodologias** | Agile · Scrum · Git Flow · Code Review |
 
 </div>
 
 ---
 
-<!-- Contribution Snake Animation -->
-## 🐍 Contribution Activity
+## 🐍 Atividade de Contribuições
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dlcruzz/dlcruzz/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dlcruzz/dlcruzz/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/dlcruzz/dlcruzz/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação de contribuições do GitHub" src="https://raw.githubusercontent.com/dlcruzz/dlcruzz/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-<!-- Trophy Section -->
-## 🏆 GitHub Achievements
+## 🏆 Conquistas no GitHub
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dlcruzz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=dlcruzz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&locale=pt" />
 
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-**"Write code that speaks for itself."**
+**"Escreva código que fale por si mesmo."**
 
-*Open to exciting opportunities and collaborations — let's build something great together!*
+*Aberto a oportunidades e colaborações — vamos construir algo incrível juntos!*
 
 </div>
