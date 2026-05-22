@@ -118,7 +118,7 @@ const danilo: Desenvolvedor = {
 ### 🛥️ VIP Náutica
 **Produção | [vipnautica.com.br](https://vipnautica.com.br)**
 
-> Plataforma completa de anúncios náuticos desenvolvida do zero — front-end, back-end e banco de dados. Conta com painel administrativo completo para gestão e edição de anúncios.
+> Plataforma completa de anúncios náuticos desenvolvida do zero — front-end, back-end e banco de dados. Conta com sistema completo de controle de produtos e CRM próprio para gestão de clientes e negociações.
 
 **Destaques:**
 - 🎨 Front-end responsivo com HTML, CSS e JavaScript
