@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:danilolima7456@gmail.com">
+<a href="mailto:devdanilocruz@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
