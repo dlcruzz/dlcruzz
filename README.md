@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cabeçalho Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Danilo%20Lima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Em%20busca%20de%20est%C3%A1gio%20em%20desenvolvimento%20de%20software&descAlignY=60&descSize=18&descColor=a0a0c0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Danilo%20Lima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Aberto%20a%20Novas%20Oportunidades&descAlignY=60&descSize=18&descColor=a0a0c0" />
 
 <!-- Typing SVG Animado -->
 <a href="https://git.io/typing-svg">
@@ -154,6 +154,8 @@ const danilo: Desenvolvedor = {
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+[![Ver App](https://img.shields.io/badge/Ver%20App-%E2%9A%BD-25A244?style=for-the-badge)](https://futdraftt.vercel.app/)
+
 </td>
 </tr>
 <tr>
@@ -176,40 +178,23 @@ const danilo: Desenvolvedor = {
 </td>
 <td width="50%" valign="top">
 
-### 🔜 Em Breve
-**Novo Projeto**
+### 🦅 Nexus Águia
+**App Android | Projeto Acadêmico FIAP × Grupo Águia Branca**
 
-> Espaço reservado para o próximo projeto. Fique de olho!
+> Plataforma corporativa de gestão da inovação que conecta estratégia, ideias, projetos e resultados. Colaboradores participam ativamente do ecossistema de inovação de forma organizada e alinhada aos objetivos do negócio.
 
-<br/><br/><br/>
+**Destaques:**
+- 💡 Cadastro e avaliação de ideias por perfil organizacional
+- 📊 Dashboard executivo com ROI e indicadores em tempo real
+- 🎮 Gamificação corporativa com ranking e recompensas reais
+- 🔐 Autenticação por nível: Operador, Gestor e Liderança
+- 🏗️ Arquitetura MVVM com Jetpack Compose e Kotlin
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/-Retrofit-48B983?style=flat-square&logo=square&logoColor=white)
 
-### 🔜 Em Breve
-**Novo Projeto**
-
-> Espaço reservado para o próximo projeto. Fique de olho!
-
-<br/><br/><br/>
-
-</td>
-<td width="50%" valign="top">
-
-### 💡 Aberto a Colaborações
-**Projetos Novos**
-
-> Sempre em busca de projetos open-source interessantes e desafios técnicos. Se tiver uma ideia, vamos conversar!
-
-**Interesses:**
-- 🗄️ Engenharia de Banco de Dados
-- 🏗️ Arquitetura de APIs
-- 📦 Ferramentas para Devs
-- 🔬 Integração IA/ML
-
-[![Vamos Conversar](https://img.shields.io/badge/Vamos%20Conversar-7C6AF7?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/danilo-lima-cruz-828244234/)
+[![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-%F0%9F%A6%85-7C6AF7?style=for-the-badge)](https://github.com/Dlima15/NexusAguia)
 
 </td>
 </tr>
