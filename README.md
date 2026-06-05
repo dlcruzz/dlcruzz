@@ -46,6 +46,12 @@ const danilo: Desenvolvedor = {
 };
 ```
 
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FIAP
+- 💼 Desenvolvedor na **VIP Náutica**, onde construí o site, o sistema de controle de produtos e o CRM do zero
+- 🌱 Aprofundando em **arquitetura de APIs**, **engenharia de banco de dados** e **clean code**
+- 🤝 Aberto a oportunidades de **estágio e desenvolvimento**
+- 💬 Pergunte-me sobre **PHP, JavaScript, MySQL e modelagem de dados**
+
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -84,6 +90,7 @@ const danilo: Desenvolvedor = {
 **Backend & Runtime**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Banco de Dados**
@@ -95,6 +102,9 @@ const danilo: Desenvolvedor = {
 **Ferramentas & Práticas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/C%C3%B3digo%20Limpo-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
 
@@ -206,11 +216,26 @@ const danilo: Desenvolvedor = {
 | Domínio | Habilidades |
 |---------|-------------|
 | 🗄️ **Engenharia de Banco de Dados** | Oracle PL/SQL · Procedures · Triggers · Otimização de Queries · Indexação |
-| ⚙️ **Desenvolvimento Backend** | Node.js · Java · Kotlin · REST APIs · Microsserviços |
+| ⚙️ **Desenvolvimento Backend** | Node.js · PHP · Java · Kotlin · REST APIs · Microsserviços |
 | 🎨 **Engenharia Frontend** | React · TypeScript · HTML5 · CSS3 · Design Responsivo |
 | 🏗️ **Arquitetura** | Código Limpo · SOLID · Sistemas Escaláveis · Design Patterns |
 | 📊 **Dados & Analytics** | Queries Complexas · Dashboards BI · Pipelines de Dados |
 | 🔄 **Metodologias** | Agile · Scrum · Git Flow · Code Review |
+
+</div>
+
+---
+
+## 🎓 Formação & Certificações
+
+<div align="center">
+
+| Instituição | Formação | Status |
+|-------------|----------|--------|
+| 🎓 **FIAP** | Análise e Desenvolvimento de Sistemas | Cursando — conclusão Dez/2026 |
+| 📜 **FIAP** | Web 2.0 Developer & Designer | Concluído |
+| 📜 **FIAP** | Análise de Sistemas e Prototipagem Web | Concluído |
+| 💻 **Alura** | JavaScript · Python · React · Git & GitHub | Concluído |
 
 </div>
 
@@ -234,11 +259,22 @@ const danilo: Desenvolvedor = {
 
 ---
 
-## 🏆 Conquistas no GitHub
+## 💜 Vamos nos conectar
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dlcruzz&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&locale=pt" />
+> Estou aberto a oportunidades de estágio, projetos e colaborações.
+> Bora trocar uma ideia e construir algo incrível juntos!
+
+<a href="https://www.linkedin.com/in/danilo-lima-cruz-828244234/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://wa.me/5511934259549" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="mailto:devdanilocruz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
