@@ -263,7 +263,7 @@ const danilo: Desenvolvedor = {
 
 <div align="center">
 
-> Estou aberto a oportunidades de estágio, projetos e colaborações.
+> Estou aberto a oportunidades em Desenvolvimento, projetos e colaborações.
 > Bora trocar uma ideia e construir algo incrível juntos!
 
 <a href="https://www.linkedin.com/in/danilo-lima-cruz-828244234/" target="_blank">
