@@ -49,7 +49,7 @@ const danilo: Desenvolvedor = {
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na FIAP
 - 💼 Desenvolvedor na **VIP Náutica**, onde construí o site, o sistema de controle de produtos e o CRM do zero
 - 🌱 Aprofundando em **arquitetura de APIs**, **engenharia de banco de dados** e **clean code**
-- 🤝 Aberto a oportunidades de **estágio e desenvolvimento**
+- 🤝 Aberto a oportunidades em **desenvolvimento**
 - 💬 Pergunte-me sobre **PHP, JavaScript, MySQL e modelagem de dados**
 
 ---
