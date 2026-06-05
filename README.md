@@ -48,6 +48,21 @@ const danilo: Desenvolvedor = {
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dlcruzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&icon_color=7C6AF7&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=percentile&locale=pt-br" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcruzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&langs_count=8&locale=pt-br" />
+
+<br/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlcruzz&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AF7&fire=FF6B35&currStreakLabel=7C6AF7&locale=pt_BR" />
+
+</div>
+
+---
+
 ## 🛠️ Stack Tecnológica
 
 <div align="center">
@@ -82,26 +97,6 @@ const danilo: Desenvolvedor = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/C%C3%B3digo%20Limpo-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dlcruzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&icon_color=7C6AF7&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=pt-br" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dlcruzz&theme=tokyonight&hide_border=true&background=0d1117&ring=7C6AF7&fire=FF6B35&currStreakLabel=7C6AF7&locale=pt_BR" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcruzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&langs_count=8&locale=pt-br" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlcruzz&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C6AF7&text_color=c9d1d9&langs_count=6&locale=pt-br" />
-
-<br/>
-
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=dlcruzz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C6AF7&line=7C6AF7&point=FF6B35&area=true&area_color=7C6AF7)
 
 </div>
 
@@ -230,6 +225,10 @@ const danilo: Desenvolvedor = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dlcruzz/dlcruzz/output/github-contribution-grid-snake.svg" />
   <img alt="Animação de contribuições do GitHub" src="https://raw.githubusercontent.com/dlcruzz/dlcruzz/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<br/>
+
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=dlcruzz&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7C6AF7&line=7C6AF7&point=FF6B35&area=true&area_color=7C6AF7)
 
 </div>
 
