@@ -280,12 +280,15 @@ const danilo: Desenvolvedor = {
 
 ---
 
+<!-- ═══════════ RODAPÉ J.A.R.V.I.S. (único, feito à mão) ═══════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img src="https://raw.githubusercontent.com/dlcruzz/dlcruzz/main/jarvis-footer.svg" alt="J.A.R.V.I.S. boot terminal" width="760" />
+
+<br/><br/>
 
 **"Escreva código que fale por si mesmo."**
 
-*Aberto a oportunidades e colaborações — vamos construir algo incrível juntos!*
+*Aberto a oportunidades e colaborações — vamos construir algo incrível juntos!* 💜
 
 </div>
