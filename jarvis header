@@ -1,0 +1,87 @@
+<svg width="900" height="240" viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg" fill="none" role="img" aria-label="Danilo Lima - Cabecalho J.A.R.V.I.S.">
+  <defs>
+    <linearGradient id="hbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="harc" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7C6AF7"/>
+      <stop offset="100%" stop-color="#a594ff"/>
+    </linearGradient>
+    <linearGradient id="hname" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#a594ff"/>
+    </linearGradient>
+    <filter id="hglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- painel HUD -->
+  <rect x="1" y="1" width="898" height="238" rx="16" fill="url(#hbg)" stroke="#7C6AF7" stroke-width="1.5" opacity="0.95"/>
+
+  <!-- linhas de grade decorativas -->
+  <g stroke="#7C6AF7" stroke-width="0.5" opacity="0.12">
+    <line x1="0" y1="60" x2="900" y2="60"/>
+    <line x1="0" y1="180" x2="900" y2="180"/>
+  </g>
+
+  <!-- cantos HUD -->
+  <g stroke="#a594ff" stroke-width="2" opacity="0.7" fill="none">
+    <path d="M20 40 L20 20 L40 20"/>
+    <path d="M880 40 L880 20 L860 20"/>
+    <path d="M20 200 L20 220 L40 220"/>
+    <path d="M880 200 L880 220 L860 220"/>
+  </g>
+
+  <!-- reator arc (lado esquerdo) -->
+  <g transform="translate(120, 120)" filter="url(#hglow)">
+    <circle r="46" fill="none" stroke="#7C6AF7" stroke-width="1" opacity="0.3"/>
+    <circle r="36" fill="none" stroke="url(#harc)" stroke-width="2.5" opacity="0.7">
+      <animate attributeName="r" values="36;40;36" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="20" fill="url(#harc)">
+      <animate attributeName="opacity" values="1;0.55;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <g stroke="#ffffff" stroke-width="2.5" opacity="0.85">
+      <line x1="0" y1="-30" x2="0" y2="-24"/>
+      <line x1="0" y1="30" x2="0" y2="24"/>
+      <line x1="-30" y1="0" x2="-24" y2="0"/>
+      <line x1="30" y1="0" x2="24" y2="0"/>
+      <line x1="-21" y1="-21" x2="-17" y2="-17"/>
+      <line x1="21" y1="21" x2="17" y2="17"/>
+      <line x1="21" y1="-21" x2="17" y2="-17"/>
+      <line x1="-21" y1="21" x2="-17" y2="17"/>
+    </g>
+    <circle r="58" fill="none" stroke="#7C6AF7" stroke-width="0.6" opacity="0.4" stroke-dasharray="5 8">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- nome + cargo -->
+  <g font-family="JetBrains Mono, monospace">
+    <text x="210" y="92" font-size="13" fill="#7C6AF7" opacity="0">
+      <tspan fill="#FF6B35">$</tspan> jarvis --boot --user=danilo
+      <animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.2s" fill="freeze"/>
+    </text>
+
+    <text x="208" y="140" font-size="46" font-weight="700" fill="url(#hname)" opacity="0">
+      Danilo Lima
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.9s" fill="freeze"/>
+    </text>
+
+    <text x="210" y="172" font-size="16" fill="#a0a0c0" opacity="0">
+      Desenvolvedor Full Stack &amp; Engenheiro de Dados
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.7s" fill="freeze"/>
+    </text>
+
+    <text x="210" y="200" font-size="13" fill="#a594ff" opacity="0">
+      <tspan fill="#7C6AF7">›</tspan> São Paulo, Brasil  ·  Aberto a novas oportunidades
+      <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.4s" fill="freeze"/>
+      <tspan fill="#7C6AF7" font-weight="700">_</tspan>
+    </text>
+  </g>
+</svg>
