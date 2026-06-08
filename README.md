@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Cabeçalho Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Danilo%20Lima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Aberto%20a%20Novas%20Oportunidades&descAlignY=60&descSize=18&descColor=a0a0c0" />
+<!-- ═══════════ CABEÇALHO J.A.R.V.I.S. (único, feito à mão) ═══════════ -->
+<img src="https://raw.githubusercontent.com/dlcruzz/dlcruzz/main/jarvis-header.svg" alt="Danilo Lima — Desenvolvedor Full Stack" width="900" />
+
+<br/><br/>
 
 <!-- Typing SVG Animado -->
 <a href="https://git.io/typing-svg">
