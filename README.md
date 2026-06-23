@@ -168,22 +168,25 @@ const danilo: Desenvolvedor = {
 <tr>
 <td width="50%" valign="top">
 
-### 📊 FinFlow
-**SaaS | Em Desenvolvimento**
+### ⚡ ZapFlow
+**App Desktop | Automação WhatsApp + Instagram**
 
-> Plataforma inteligente de gestão financeira com IA para previsão de fluxo de caixa e insights automatizados para freelancers.
+> Ferramenta de automação de mensagens para Windows que controla o WhatsApp Desktop e o app do Instagram nativamente. Envia mensagens personalizadas para centenas de contatos com digitação humana, detecção visual de botões por scan de pixels e sistema anti-bloqueio completo.
 
 **Destaques:**
-- 🤖 Previsão de fluxo de caixa com IA
-- 📈 Insights de negócio automatizados
-- 🎯 UX focada em decisões rápidas
+- 💬 WhatsApp + Instagram DM no mesmo app
+- 🖱️ Detecção visual de botões por comparação de screenshot
+- ⌨️ Digitação humana letra por letra (gera indicador "digitando...")
+- 🛡️ Anti-bloqueio: warm-up, spin text, delay aleatório, horário humano
+- 📊 Painel dark com sidebar, progresso ao vivo e dashboard final
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![CustomTkinter](https://img.shields.io/badge/-CustomTkinter-1e293b?style=flat-square&logo=python&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/-PyAutoGUI-ff6b35?style=flat-square&logo=python&logoColor=white)
+![PIL](https://img.shields.io/badge/-Pillow-4b5563?style=flat-square&logo=python&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+[![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-⚡-25D366?style=for-the-badge)](https://github.com/dlcruzz/ZapFlow)
+
 
 ### 🦅 Nexus Águia
 **App Android | Projeto Acadêmico FIAP × Grupo Águia Branca**
