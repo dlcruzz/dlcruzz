@@ -187,6 +187,8 @@ const danilo: Desenvolvedor = {
 
 [![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-⚡-25D366?style=for-the-badge)](https://github.com/dlcruzz/ZapFlow)
 
+</td>
+<td width="50%" valign="top">
 
 ### 🦅 Nexus Águia
 **App Android | Projeto Acadêmico FIAP × Grupo Águia Branca**
